@@ -1,0 +1,11 @@
+{
+  "name": "ui-builder",
+  "version": "1.0.0",
+  "description": "This is a implementation of the 'Builder' pattern, implementing a dynamic contact form.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc --lib es2018,dom ./index.ts && node index.js"
+  },
+  "author": "maxtermax",
+  "license": "MIT"
+}
